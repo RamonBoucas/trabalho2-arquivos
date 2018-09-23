@@ -1,0 +1,2 @@
+prezado professor, esta aqui o intercala , ele foi feito , tendo como base o copia , testei ele com pequenos valores , nao foi possivel testar a parte 
+em que apos esgotar uma das entradas ,ele passa a copiar a outra
